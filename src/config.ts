@@ -29,7 +29,7 @@ export const siteConfig = {
     {
       name: "GroupMe Scam Bot Detector",
       description:
-        "A GroupMe scam detector bot that flags high-risk messages with 98% accuracy, and sends automated alerts to admins and chat members.",
+        "A scam detector bot that flags high-risk messages with 98% accuracy, and sends automated alerts to admins and chat members.",
       link: "",
       skills: ["Python", "Flask", "Scikit-learn", "Matplotlib", "Supervised Learning"],
     },
