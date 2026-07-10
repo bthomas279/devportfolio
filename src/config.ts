@@ -10,14 +10,14 @@ export const siteConfig = {
   },
   aboutMe:
     "I'm an Information Science major with a focus in AI/ML and software development. I learn by building - turning ideas into tools others can use. I gravitate toward personal projects because they allow me to solve problems I care about while pushing me beyond my current knowledge level. Whether it's fine-tuning a transformer model, developing full stack applications, or architecting a browser extension from scratch, I approach every challenge with perseverance and resilience. I'm actively seeking internship opportunities and entry level positions where I can learn from experienced professionals and keep building things that matter.",
-  skills: ["Python", "JavaScript/TypeScript", "SQL", "PyTorch", "Transformers", "Scikit-learn", "NumPy", "Tensorflow", "Trainer API", "Transformers.js", "Hugging Face", "FastAPI", "Claude", "Gemini API", "Node.js", "React.js", "MV3", "Vite"],
+  skills: ["Python", "JavaScript/TypeScript", "SQL", "PyTorch", "Transformers", "Scikit-learn", "NumPy", "Tensorflow", "Trainer API", "Transformers.js", "Hugging Face", "FastAPI", "Gemini API", "Node.js", "React.js", "MV3", "Vite"],
   projects: [
     {
       name: "Investi-gator Extension (in development)",
       description:
         "An Edge/Chrome extension that helps users take back control of their social media experiences. Will passively detect if posts on social media platforms contain AI images/text, were posted by bots or is a likely scam when users scroll.",
       link: "",
-      skills: ["PyTorch", "TypeScript", "React.js", "Transformers", "Trainer API", "Scikit-learn", "Hugging Face", "Claude", "Gemini API", "Pandas", "NumPy", "MV3", "Vite"],
+      skills: ["PyTorch", "TypeScript", "React.js", "Transformers", "Trainer API", "Scikit-learn", "Hugging Face", "Gemini API", "Pandas", "NumPy", "MV3", "Vite"],
     },
     {
       name: "Student Mental Health Scoring System",
